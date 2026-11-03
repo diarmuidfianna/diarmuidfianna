@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="230" viewBox="0 0 840 230" role="img" aria-label="Language stack across all repositories: HTML 41.6%, JavaScript 21.9%, Python 18.4%, TypeScript 14.7%, Jupyter Notebook 2.3%, other 1.1%.">
+  <!-- shortcut: static snapshot of byte share across all repos (incl. private) taken 2026-11-03; regenerate by hand if the mix changes -->
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .sans { font-family: -apple-system, Segoe UI, Helvetica, Arial, sans-serif; }
+  </style>
+  <rect x="1" y="1" width="838" height="228" rx="16" fill="#0b1622" stroke="#2b3d4f"/>
+  <text x="32" y="44" class="sans" font-size="20" font-weight="600" fill="#fff">Language Stack</text>
+  <text x="32" y="66" class="mono" font-size="12" fill="#3ee6b0">Repository-weighted, public and private</text>
+  <text x="808" y="44" class="mono" font-size="12" fill="#3ee6b0" text-anchor="end">&gt; stack.scan_</text>
+  <g class="mono" font-size="14" fill="#d6e2ee">
+    <g transform="translate(32,96)"><circle cx="6" cy="-5" r="6" fill="#e34c26"/><text x="22">HTML</text><text x="240" fill="#e34c26" text-anchor="end">41.6%</text><rect x="260" y="-12" width="516" height="10" rx="5" fill="#1a2a38"/><rect x="260" y="-12" width="215" height="10" rx="5" fill="#e34c26"/></g>
+    <g transform="translate(32,124)"><circle cx="6" cy="-5" r="6" fill="#f1e05a"/><text x="22">JavaScript</text><text x="240" fill="#f1e05a" text-anchor="end">21.9%</text><rect x="260" y="-12" width="516" height="10" rx="5" fill="#1a2a38"/><rect x="260" y="-12" width="113" height="10" rx="5" fill="#f1e05a"/></g>
+    <g transform="translate(32,152)"><circle cx="6" cy="-5" r="6" fill="#3572A5"/><text x="22">Python</text><text x="240" fill="#6aa5d8" text-anchor="end">18.4%</text><rect x="260" y="-12" width="516" height="10" rx="5" fill="#1a2a38"/><rect x="260" y="-12" width="95" height="10" rx="5" fill="#3572A5"/></g>
+    <g transform="translate(32,180)"><circle cx="6" cy="-5" r="6" fill="#3178c6"/><text x="22">TypeScript</text><text x="240" fill="#5c9be0" text-anchor="end">14.7%</text><rect x="260" y="-12" width="516" height="10" rx="5" fill="#1a2a38"/><rect x="260" y="-12" width="76" height="10" rx="5" fill="#3178c6"/></g>
+    <g transform="translate(32,208)"><circle cx="6" cy="-5" r="6" fill="#DA5B0B"/><text x="22">Jupyter Notebook</text><text x="240" fill="#e07a3a" text-anchor="end">2.3%</text><rect x="260" y="-12" width="516" height="10" rx="5" fill="#1a2a38"/><rect x="260" y="-12" width="12" height="10" rx="5" fill="#DA5B0B"/></g>
+  </g>
+</svg>
